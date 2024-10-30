@@ -1,2 +1,2 @@
 # Genetic Algorithms
- 
+The task assignment problem involves assigning each of *t* tasks to one of *p* persons so that each person performs only one task. Each person has a performance score for each task, with higher scores indicating better performance. The goal is to assign tasks to persons to maximize the total score. A genetic algorithm is recommended to find the optimal assignment, and the program must read input data from a file containing comma-separated performance scores per person, with no labels.
